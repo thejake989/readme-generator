@@ -114,6 +114,7 @@ function getInfo() {
       $template += `## Testing\n\n[${response.test}]\n\n`;
       $template += `## License\n\n[${response.licence}]${licenceInfo}`;
       $template += `## Application Image\n\n ![Image of Application](${response.image})`;
+
       // Writes the created template to README.md file
       fs.writeFile(path, $template, function (err) {
         if (err) {
