@@ -1,4 +1,4 @@
-# test 
+# ReadMe Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,48 +6,34 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Testing](#testing)
 - [Questions](#questions)
 - [License](#license)
-- [Application Image](#application-image)
 
 ## Description
 
-this is a test description
+This is a ReadMe generator. You can use this simple application through the CLI to generate you a ReadMe for your next project. Here is a link to the greatness. [ReadMe Generator](https://www.awesomescreenshot.com/video/10203103?key=551d121bfb94dc4b32744260a742cd6a)
 
 ## Installation
 
-navigate to terminal and the go to the correct folder and run the node app
-
-
-## Usage
-
-works for generatirng readmes
-
-## Contributing
-
-not needed atm
+- Open your favorite CLI
+- Run the command `npm install`
+- run the command `node app.js`
 
 ## Questions
 
 If you have any questions feel free to contact me here:
 
- ##### Github: [github.com/thejake989](https://github.com/thejake989)
+##### Github: [github.com/thejake989](https://github.com/thejake989)
 
- ##### Email: [thejakethree989@gmail.com](mailto:thejakethree989@gmail.com?subject=[GitHub])
+##### Email: [thejakethree989@gmail.com](mailto:thejakethree989@gmail.com?subject=[GitHub])
 
 ## Testing
 
-[testing it now]
+[testing it with this]
 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
 
 You have the freedom to do as you like with this permissive software, as long as an original copy and license notice is included. I cannon be held liable for this software.
-
-## Application Image
-
- ![Image of Application](thejake989)
